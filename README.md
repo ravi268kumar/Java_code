@@ -1,5 +1,5 @@
-# Java_code
-Posting list
-frequency count 
-file Search
-search words
+# Java_code,
+Posting list,
+frequency count, 
+file Search,
+search words.
